@@ -69,7 +69,7 @@ public class Main {
             System.out.println("OOP DEMO ERROR: " + e.getMessage());
         }
 
-        System.out.println("\nPROGRAM FINISHED ✅");
+        System.out.println("\nPROGRAM FINISHED");
     }
 }
 
